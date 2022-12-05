@@ -1,0 +1,8 @@
+Explain what the terminal is in your own words 
+The terminal is a hardware device that allows you to navigate your computer using commands through your keyboard.
+
+What is the major difference between Git and Github?
+Git is software installed in the terminal that helps you manage and track your local code whereas Github is an application that stores your code remotely and allows others to edit it.
+
+Why do we use Github?
+We use GitHub to store code in our remote repository and collaborate with others.
